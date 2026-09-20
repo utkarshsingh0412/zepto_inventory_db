@@ -1,4 +1,4 @@
-# Zepto Inventory Management System
+# Zepto Inventory Analysis
 
 A relational database project built using MySQL Workbench to manage and analyze product inventory, pricing, and stock availability.
 
